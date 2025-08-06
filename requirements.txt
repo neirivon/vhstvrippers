@@ -3,3 +3,13 @@ python-telegram-bot==20.3
 python-dotenv
 requests
 pymongo
+fastapi
+uvicorn
+python-multipart
+
+mercadopago
+plexapi
+pydrive2
+tmdbv3api
+yagmail
+

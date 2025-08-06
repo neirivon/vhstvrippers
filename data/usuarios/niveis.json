@@ -1,0 +1,48 @@
+[
+  {
+    "nivel": 1,
+    "codinome": "Jake Grandão",
+    "titulo": "Recruta da Fita",
+    "requisito_em_reais": 0,
+    "acesso_simbolico": "Clássicos de Sessão da Tarde Esquecidos",
+    "descricao": "Inicia sua jornada com fitas carismáticas, comuns nos anos 80/90, mas sumidas das prateleiras digitais.",
+    "icone": "🎬"
+  },
+  {
+    "nivel": 2,
+    "codinome": "O Chaveiro",
+    "titulo": "Hacker de Locadora",
+    "requisito_em_reais": 250,
+    "acesso_simbolico": "Montagens Perdidas & Versões de Videoclube",
+    "descricao": "Acesso a filmes com cortes raros, trailers alternativos e dublagens únicas que só quem viveu sabe.",
+    "icone": "📼"
+  },
+  {
+    "nivel": 3,
+    "codinome": "Shogun do Harlem",
+    "titulo": "Guardião VHS",
+    "requisito_em_reais": 750,
+    "acesso_simbolico": "Fitas Cult de Madrugada Cósmica",
+    "descricao": "Produções que passaram em horários proibitivos, cheias de simbolismo, fumaça e luzes piscando.",
+    "icone": "📀"
+  },
+  {
+    "nivel": 4,
+    "codinome": "Darth Vader",
+    "titulo": "Curador das Sombras",
+    "requisito_em_reais": 2000,
+    "acesso_simbolico": "Fragmentos Proibidos da Memória Coletiva",
+    "descricao": "Filmes considerados 'perigosos' demais para relançamentos. Inclui versões censuradas e relatos de sessões canceladas.",
+    "icone": "🛸"
+  },
+  {
+    "nivel": 5,
+    "codinome": "Norman Bates",
+    "titulo": "Mestre das Fitas Proibidas",
+    "requisito_em_reais": 4000,
+    "acesso_simbolico": "Obras Malditas de Origem Desconhecida",
+    "descricao": "A raridade suprema: gravações únicas, muitas vezes sem créditos ou fonte conhecida. Um mergulho na loucura analógica.",
+    "icone": "🕳️"
+  }
+]
+
